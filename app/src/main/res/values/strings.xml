@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="name">Name</string>
+    <string name="my_great_app">My Great App</string>
+    <string name="button">Button</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="todo">TODO</string>
+</resources>
